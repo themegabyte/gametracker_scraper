@@ -7,6 +7,14 @@ The output of both tools is saved to a text file.
 
 The reason I chose selenium was that the website prevented me from scraping it using tools like requests.
 
+# Requirements
+
+- Works with both python2 and 3 
+
+- Have firefox and/or firefox webdriver installed
+
+- `sudo pip install selenium`
+
 # Usage
 
     python selenium_scraper.py -s <searchterm>
