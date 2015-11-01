@@ -17,6 +17,9 @@ The reason I chose selenium was that the website prevented me from scraping it u
 
 # Usage
 
+Make sure that your searchterm (game) matches the way it is written in gametracker's url.
+You can check by simply search for any game on `http://www.gametracker.com/search/game`
+
     python selenium_scraper.py -s <searchterm>
 
 example
