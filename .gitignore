@@ -1,0 +1,3 @@
+*.txt
+env
+custom_selenium_scraper.py
